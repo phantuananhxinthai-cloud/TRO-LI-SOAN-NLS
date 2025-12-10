@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 Trợ lí giáo án NLS </h1>
-    <p>Tác giả: Lý Thị Thái - TH Nguyễn Tất Thánh </p>
+    <p>Tác giả: Lý Thị Thái - TH Nguyễn Tất Thành - Đt 0979878093 </p>
 </div>
 """, unsafe_allow_html=True)
 

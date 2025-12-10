@@ -190,8 +190,8 @@ st.markdown("""
 # --- 4. GIAO DIỆN CHÍNH ---
 st.markdown("""
 <div class="main-header">
-    <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</p>
+    <h1>📘 Trợ lí giáo án NLS </h1>
+    <p>Tác giả: Lý Thị Thái - TH Nguyễn Tất Thánh </p>
 </div>
 """, unsafe_allow_html=True)
 
